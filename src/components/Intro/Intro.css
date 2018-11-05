@@ -1,0 +1,16 @@
+.wrapper{
+
+    height: 200px;
+    width: 800px;
+
+   
+    margin: auto;
+    margin-top: 7rem;
+   
+}
+
+.intro {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 3.75em;
+	font-weight: 600;
+}
